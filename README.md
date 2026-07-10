@@ -1,0 +1,2 @@
+# Interactive-Business-Dashboard-in-Streamlit-for-Global-Superstore
+Global Superstore is a multinational retail company operating across several markets (US, EU, LATAM, Africa, APAC, EMEA, Canada). Management needs a clear, data-driven view of how the business is performing across regions, product categories, and customer segments in order to make informed decisions about inventory, marketing, and profitability.
