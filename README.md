@@ -154,7 +154,7 @@ Predicted values track actual profit closely for most orders, with some spread a
 ```
 3. Launch the interactive dashboard:
 ```bash
-   streamlit run streamlit_dashboard.py
+   python -m streamlit run streamlit_dashboard.py
 ```
 
 ---
