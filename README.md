@@ -17,26 +17,25 @@ Global Superstore operates across multiple markets (US, EU, LATAM, Africa, APAC,
 
 ## 🗂️ 2. Project Structure
 
-...
-└── Global_Superstore/
+Global_Superstore/
 |
 ├── superstore.csv                    # Raw dataset
 ├── superstore_cleaned.csv            # Cleaned dataset (output of the notebook)                      
 ├── Superstore_BI_Analysis.ipynb      # Full EDA + modeling notebook
 ├── streamlit_dashboard.py            # Interactive BI dashboard
-├── images/
-          |
-          ├── plot1_total_sales_profit.png
-          ├── plot2_sales_profit_region.png
-          ├── plot3_profit_sub-category.png
-          ├── plot4_sales_profit_segment.png
-          ├── plot5_monthly_sales_trend.png
-          ├── plot6_top_10_customers_sales.png
-          ├── plot7_discount_vs_profit.png
-          ├── plot8_correlation.png
-          ├── plot9_feature_importances.png
-          └── plot10_randomforest.png
-└──README.md 
+├── README.md
+|
+└── images/
+    ├── plot1_total_sales_profit.png
+    ├── plot2_sales_profit_region.png
+    ├── plot3_profit_sub-category.png
+    ├── plot4_sales_profit_segment.png
+    ├── plot5_monthly_sales_trend.png
+    ├── plot6_top_10_customers_sales.png
+    ├── plot7_discount_vs_profit.png
+    ├── plot8_correlation.png
+    ├── plot9_feature_importances.png
+    └── plot10_randomforest.png 
 
 ---
 
