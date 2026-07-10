@@ -15,30 +15,6 @@ Global Superstore operates across multiple markets (US, EU, LATAM, Africa, APAC,
 
 ---
 
-2. Project Structure
-
-household-power-consumption-forecasting/
-│
-├── household_power_forecasting.ipynb   # Main Jupyter Notebook (full pipeline)
-├── household_power_consumption.csv     # Raw dataset (minute-level readings)
-├── README.md                           # Project documentation
-│
-└── images/                             # Exported visualizations
-    ├── Plot1_Daily_avg_power.png
-    ├── Plot2_monthly_avg_power_consumption.png
-    ├── Plot3_avg_power_consumption_dayperweek.png
-    ├── Plot4_seasonal_decomposition.png
-    ├── Plot5_avg_energy_submeetingzone.png
-    ├── Plot6_correlation.png
-    ├── Plot7_distribution.png
-    ├── Plot8_model_comparison.png
-    ├── Plot9_actual_predicted.png
-    ├── Plot10_residuals_distri_predicted.png
-    └── Plot11_feature_coefficients.png
-
-
-3. Dataset Overview
-
 ## 🗂️ 2. Project Structure
 
 Global_Superstore/
